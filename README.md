@@ -1,2 +1,2 @@
 # jarvis
-a bot serve me within exchange messages on line app.
+a bot serves me within exchange messages on line app.
